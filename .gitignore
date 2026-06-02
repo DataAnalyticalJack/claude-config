@@ -1,0 +1,12 @@
+# Sensitive credentials
+.credentials.json
+
+# Local state & caches
+cache/
+plugins/cache/
+history.jsonl
+shell-snapshots/
+.last-cleanup
+backups/
+sessions/
+projects/
