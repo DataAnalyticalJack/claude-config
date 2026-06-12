@@ -1,0 +1,18 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\jackw\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-06-12T01:20:31.856Z"
+  },
+  "openai-codex": {
+    "source": {
+      "source": "github",
+      "repo": "openai/codex-plugin-cc"
+    },
+    "installLocation": "C:\\Users\\jackw\\.claude\\plugins\\marketplaces\\openai-codex",
+    "lastUpdated": "2026-06-05T07:44:57.564Z"
+  }
+}

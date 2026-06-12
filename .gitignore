@@ -10,3 +10,22 @@ shell-snapshots/
 backups/
 sessions/
 projects/
+
+# Auto-generated runtime files
+file-history/
+gsd-migration-journal/
+gsd-file-manifest.json
+gsd-install-state.json
+.last-update-result.json
+mcp-needs-auth-cache.json
+session-env/
+ide/
+
+# Plugin installation artifacts (large, reproducible)
+plugins/marketplaces/
+plugins/data/
+plugins/plugin-catalog-cache.json
+plugins/.last_inuse_sweep
+
+# GSD tool runtime (installed package, not personal config)
+gsd-core/
